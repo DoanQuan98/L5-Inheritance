@@ -2,7 +2,7 @@
 
 use JetBrains\PhpStorm\Pure;
 
-class Rectanglee extends Shape
+class Rectangle extends Shape
 {
     public int $width;
     public int $height;
